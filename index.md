@@ -1,6 +1,6 @@
 # Jan Go
 
-[Email](janemgo86@gmail.com) | [LinkedIn](https://www.linkedin.com/in/janemgo86/) | [GitHub](https://github.com/dominikake)
+[Email](mailto:janemgo86@gmail.com) | [LinkedIn](https://www.linkedin.com/in/janemgo86/) | [GitHub](https://github.com/dominikake)
 
 ## Experience
 
