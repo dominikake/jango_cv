@@ -1,10 +1,19 @@
 # Jan Go
 
-[Email](mailto:janemgo86@gmail.com) | [LinkedIn](https://www.linkedin.com/in/janemgo86/) | [GitHub](https://github.com/dominikake)
+[Email](mailto:janemgo86@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jan-go-87674b61/) | [GitHub](https://github.com/dominikake)
 
 ## Experience
 
 ### Project Management Office (PMO)
+
+- Provide support to project managers in planning, executing, and monitoring projects to ensure they align with organizational goals.
+- Utilize Microsoft Power Platform to create automated workflows, streamline processes, and improve productivity.
+- Ensure compliance with internal processes, standards, and guidelines to maintain consistency and quality in project delivery.
+- Track project tasks and deliverables to monitor progress, identify potential risks or issues.
+- Design, develop, and optimize project management processes to enhance efficiency and reduce waste.
+- Create and maintain project documentation such as project plans, status reports, timelines, and other relevant documents to ensure transparency, accountability, and effective communication within the project team.
+- Stay abreast of new technologies and trends in the industry to identify opportunities for leveraging new tech solutions that can enhance project efficiency and effectiveness.
+- Utilize Python for some data science tasks, develop personal utilities and scripts, generate adhoc reports
 
 #### Project Control Services Senior Analyst @ [Accenture](https://www.accenture.com/ph-en) (Dec 2022 - present)
 
