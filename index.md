@@ -22,17 +22,13 @@ Versatile PMO professional excelling in automation, project management, and proc
 
 #### Project Control Services Associate @ [Accenture](https://www.accenture.com/ph-en) (Mar 2018 - Dec 2021)
 
-### Technical Recruiting
-
-#### Technical Recruiter @ Bear Data Solutions (Feb 2014 to July 2014)
-
 ### Contact Center
 
 #### Healthcare Intake Specialist  @ [Accenture](https://www.accenture.com/ph-en) (Jul 2014 - Mar 2018)
 
-#### Technical Support Representative @ Stream Global Solutions (Sep 2012 - Feb 2014)
+### Technical Recruiting
 
-#### Technical Support Representative @ Convergys (Dec 2011 - Aug 2012)
+#### Technical Recruiter @ Bear Data Solutions (Feb 2014 to July 2014)
 
 ## Education
 
